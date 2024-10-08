@@ -1,0 +1,15 @@
+{
+	"description": "<p>Entretenimiento sin Limites<p>",
+	"author": "ElSuacht",
+	"homepage": "https://github.com/Eagle776/PS3",
+	"title": "PlayStr3am",
+	"synopsis": "Animes, Caricaturas, Series y Mucho Mas",
+	"version": "1.0.29",
+	"file": "tv.js",
+	"showtimeVersion": "4.8",
+	"type": "ecmascript",
+	"id": "tv",
+	"icon": "logo.png",
+	"category": "tv",
+	"apiversion": 2
+}
